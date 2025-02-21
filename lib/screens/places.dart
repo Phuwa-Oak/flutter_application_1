@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_native/providers/user_places.dart';
-import 'package:flutter_native/screens/add_place.dart';
-import 'package:flutter_native/widgets/places_list.dart';
+import 'package:flutter_application_1/providers/user_places.dart';
+import 'package:flutter_application_1/screens/add_place.dart';
+import 'package:flutter_application_1/widgets/places_list.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 class PlacesScreen extends ConsumerWidget {

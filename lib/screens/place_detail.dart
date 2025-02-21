@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_native/models/place.dart';
+import 'package:flutter_application_1/models/place.dart';
+
 
 
 class PlaceDetailScreen extends StatelessWidget {
